@@ -103,9 +103,6 @@ body{
     font-weight: 700;
     transition: all 0.5s;
 }
-.home-btn:hover{
-    background: #684c18;
-}
 .home-img img{
     width: 100%;
 }
